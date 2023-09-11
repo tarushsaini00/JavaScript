@@ -56,3 +56,12 @@ i)               Object                                object
 ii)              Array                                  object
 iii)             Function                            function(object)
  */
+
+
+//*************************************************************************
+
+
+// Stack (Primitive), Heap(Non Primitive)
+
+let meYoutubeName = "rajdotcom"
+
