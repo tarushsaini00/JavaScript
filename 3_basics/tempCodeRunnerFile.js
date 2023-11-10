@@ -1,1 +1,2 @@
-5
+user.username = "sam"
+// user.wellcomeMessage()
